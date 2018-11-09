@@ -25,11 +25,14 @@
    Save generated microscopy images, ground truth of position and orientation.
    Data Folder Hierarchy
    ```
-   data
-   --train
-     --image
-     --position
-     --ori
+   ./data
+   --./train
+     --./image
+       --(microscopy images)
+     --./position
+       --(ground truth location)
+     --./ori
+       --(ground truth orientation)
    ```
 3. deepLoco_dataset_gen.m
 
