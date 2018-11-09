@@ -10,5 +10,5 @@ Current network is for 64x64 images.
 2. Run test.py for testing.
 
 
-#### Reference ####
+### Reference ###
 [DeepLoco: Fast 3D Localization Microscopy Using Neural Networks](https://www.biorxiv.org/content/biorxiv/early/2018/02/16/267096.full.pdf)
