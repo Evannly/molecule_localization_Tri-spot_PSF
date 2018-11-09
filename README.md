@@ -8,3 +8,7 @@ Here is a example dataset of Gaussian PSF images with size 64x64 (./data_generat
 Current network is for 64x64 images.
 1. Run train.py for training.
 2. Run test.py for testing.
+
+
+### Reference ###
+https://www.biorxiv.org/content/biorxiv/early/2018/02/16/267096.full.pdf
