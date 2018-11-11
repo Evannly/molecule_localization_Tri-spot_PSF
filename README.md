@@ -11,6 +11,6 @@ Current network is for 64x64 images.
 
 #### Example ####
 ![Left: Gaussian PSF image; middle: true location; right: prediction with confidence](https://github.com/Evannly/molecule_localization_Tri-spot_PSF/blob/master/doc/Capture2.PNG)
-
+Left: Gaussian PSF image; middle: true location; right: prediction with confidence
 ### Reference ###
 [DeepLoco: Fast 3D Localization Microscopy Using Neural Networks](https://www.biorxiv.org/content/biorxiv/early/2018/02/16/267096.full.pdf)
