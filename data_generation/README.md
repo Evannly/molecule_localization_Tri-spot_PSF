@@ -5,6 +5,8 @@
 1. img_sim_gen.m 
 
    Generate Tri-spot PSF images. Don't change it unless you know what you are doing.
+   
+   It takes about one minute to generate each image
 2. img_sim_gen_iso.m
 
    Generate Gaussian PSF images. Not robustly work. If you can improve this function, welcome to commit.
